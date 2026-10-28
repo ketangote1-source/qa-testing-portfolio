@@ -15,12 +15,16 @@ Cloud college ERP for Tatyasaheb Kore Institute of Engineering & Technology, cov
 
 **My role:** Led manual functional & regression testing, authored test cases, and tracked defects to closure across release cycles.
 
+![InstituteSync College ERP (TKIET) login](screenshots/tkiet-erp-login.png)
+
 ### 2. InstituteSync — Hostel Portal
 🔗 https://hostel.institutesync.com
 
 Hostel management system for **room allocation, resident records, fee collection and mess management**.
 
 **My role:** Executed end-to-end test cases, validated role-based workflows, and supported UAT sign-off.
+
+![InstituteSync Hostel Portal login](screenshots/hostel-portal-login.png)
 
 ---
 
